@@ -5,7 +5,7 @@ student_marks = [78, 83, 90, 88, 75]
 total_marks = sum(student_marks)
 
 # Print the result
-print(f"The sum of the items in the student marks list is {total_marks}.")
+print(f"The sum {total_marks}.")
 
 #part ii,
 student_marks = [78, 83, 90, 88, 75]
